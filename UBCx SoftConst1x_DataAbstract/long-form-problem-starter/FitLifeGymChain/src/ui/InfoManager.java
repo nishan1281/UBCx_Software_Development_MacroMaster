@@ -204,7 +204,7 @@ public class InfoManager {
                     printGymInfo(chain.lookupGymByName(PALM_LAKE_GYM_NAME));
                     break;
                 case YOUR_GYM_COMMAND:
-                    printGymInfo(chain.lookupGymByName(YOUR_GYM_NAME));
+                    printGymInfo(chain.lookupGymByName(NISHAN_GYM_NAME));
                     break;
                 case MEMBERS_COMMAND:
                     printMemberInfo();

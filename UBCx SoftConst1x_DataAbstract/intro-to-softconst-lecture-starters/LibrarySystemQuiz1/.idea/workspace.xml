@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0a67171-3cb4-4ceb-aa7d-34f08823d6b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SimpleDrawingPlayer/src/model/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SimpleDrawingPlayer/src/model/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/ButtonNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/ReportTab$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/ReportTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$CheckboxListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$OnOffListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$SliderListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/ButtonNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/ButtonNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/diagram.uml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2Qzr1C0SaOjZbPcLSWTG43b5Ofu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/nisha/OneDrive/Desktop/JavaPractices/UBCx_Software_Development_MacroMaster/UBCx SoftConst1x_DataAbstract/New folder/intro-to-softconst-lecture-starters/LibrarySystemQuiz1"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0a67171-3cb4-4ceb-aa7d-34f08823d6b2" name="Changes" comment="" />
+      <created>1686367033668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686367033668</updated>
+      <workItem from="1686367035084" duration="5000" />
+      <workItem from="1686370083443" duration="6000" />
+      <workItem from="1686370103088" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c711b0c9-ae29-415f-928e-44e0b4bcd2bf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LibrarySystemQuiz1/LibrarySystemQuiz1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LibrarySystemQuiz1/LibrarySystemQuiz1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/FitLifeGymKiosk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../long-form-problem-starter/FitLifeGymKiosk/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/ButtonNames.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/diagram.uml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/HomeTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/ReportTab$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/ReportTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$CheckboxListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$OnOffListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab$SliderListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/out/ui/tabs/SettingsTab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/ButtonNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/ButtonNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../long-form-problem-starter/SmartHome/src/ui/diagram.uml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Qzo5ewiN6mjnV2YvMn8jY2Z7RP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nisha/OneDrive/Desktop/JavaPractices/UBCx_Software_Development_MacroMaster/UBCx SoftConst1x_DataAbstract/intro-to-softconst-lecture-starters/SimpleDrawingPlayer&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c711b0c9-ae29-415f-928e-44e0b4bcd2bf" name="Changes" comment="" />
+      <created>1686365592723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686365592723</updated>
+      <workItem from="1686365593747" duration="2429000" />
+      <workItem from="1686377301680" duration="1916000" />
+      <workItem from="1686584429141" duration="934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

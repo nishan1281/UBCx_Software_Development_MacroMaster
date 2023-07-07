@@ -25,9 +25,9 @@ public class GymChainInfo {
     public static final String MICHELA_MEMBER_NAME = "Michela";
 
     //TODO 1: assign a different value to the constant below
-    public static final String YOUR_GYM_NAME = "Your Gym";
+    public static final String NISHAN_GYM_NAME = "NISHAN";
     //TODO 1: assign a different value to the constant below
-    public static final String YOUR_MEMBER_NAME = "Your Name";
+    public static final String SAIFAN_MEMBER_NAME = "SAIFAN";
 
     public static void main(String[] args) {
         GymChain chain = new GymChain();
@@ -65,9 +65,9 @@ public class GymChainInfo {
         WeightMachine wm = new WeightMachine("quadriceps", 75);
 
         //TODO 2: pass in parameters to these methods:
-//        g1.setHasPool(...);
-//        wm.setWeight(...);
-//        g1.addWeight(...);
+          g1.setHasPool(true);
+          wm.setWeight(12);
+          g1.addWeight();
 
 
         Gym g2 = new DeluxeGym(PINE_VALLEY_GYM_NAME);
